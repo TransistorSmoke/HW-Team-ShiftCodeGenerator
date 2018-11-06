@@ -1,0 +1,10 @@
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\bin\Debug\HWAttendanceGrabber.exe
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\bin\Debug\HWAttendanceGrabber.pdb
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\obj\x86\Debug\HWAttendanceGrabber.GrabForm.resources
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\obj\x86\Debug\HWAttendanceGrabber.Properties.Resources.resources
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\obj\x86\Debug\HWAttendanceGrabber.exe
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\obj\x86\Debug\HWAttendanceGrabber.pdb
+C:\Users\JAlegado\AppData\Local\Temporary Projects\HWAttendanceGrabber\obj\x86\Debug\HWAttendanceGrabber.childAttendanceWin.resources

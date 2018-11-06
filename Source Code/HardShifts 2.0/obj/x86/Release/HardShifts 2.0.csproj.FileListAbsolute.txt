@@ -1,0 +1,18 @@
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\bin\Release\HardShifts 2.0.exe.config
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\bin\Release\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\bin\Release\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HardShifts 2.0.csproj.ResolveComReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HWAttendanceGrabber.CheckAttendanceWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HWAttendanceGrabber.GrabForm.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HWAttendanceGrabber.ProcessShiftCodeWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HWAttendanceGrabber.ProgressBar.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HWAttendanceGrabber.Properties.Resources.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\bin\Release\HardShifts 2.0.exe.manifest
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\bin\Release\HardShifts 2.0.application
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HardShifts 2.0.exe.manifest
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Release\HardShifts 2.0.application

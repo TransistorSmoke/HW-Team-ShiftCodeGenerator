@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="HardShifts 2.0.exe" version="1.0.0.2" publicKeyToken="46c63bcce4823d92" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="time-10-48.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HardShifts 2.0" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="HardShifts 2.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HardShifts 2.0.exe" size="57344">
+      <assemblyIdentity name="HardShifts 2.0" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>XFRI7WYROldxfUQPQHwLaSmHUKI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="HardShifts 2.0.exe.config" size="159">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1MarUy3RuVvHLdw5ozZo3o7j39I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="time-10-48.ico" size="9662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9naEFg+9KBPY2HqQAYGqNEcplzM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="time-9-48.ico" size="9662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wSNYMgROo8pNdiaIoiZKhtPXnXw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CORPLEAR\jalegado" issuerKeyHash="886edd1af44d0a39b70ce2e7c789eef36074b354" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>cY9ESoLQepcF1Kc8a/OjUxDKNa8=</DigestValue></Reference></SignedInfo><SignatureValue>U4lXI2CjZD7aW1cT2oMO2Rk3kmfJx8dfm/mDSppdUYN3vAY5al5RfwLjCK58Pef3N6xdUPSbQsATXJQEpjdcKVwiD0NEyBP7P8AZec6KJezEV6EtwyubIPmVP2kFJ/JKzb/gYIYmSO5rts2oQ5tCm6szd/oGLTv9BC/D551DhUg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>r+IfocVaL1rFjO1g8R++uLrV3KsqhyKRBXVhjUiImHQTdxhbYmV1hEDWr+NP5ISL0z1TqOW5Ui1UG6cYT3FpgyVGryXAOLeJQ8OTwBtSPX4TzcxF/E7+/EEw7voI/Th/3+gKc3Xzf9KF8T7Ecekk8dCaF1oZFm1y7Hecqabn3sE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="af35ca1053a3f36b3ca7d405977ad0824a448f71" Description="" Url=""><as:assemblyIdentity name="HardShifts 2.0.exe" version="1.0.0.2" publicKeyToken="46c63bcce4823d92" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CORPLEAR\jalegado</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>eVHCj2o3+vNd93cVulg10KIzb/k=</DigestValue></Reference></SignedInfo><SignatureValue>iwMa2iQu4bRJnA5ycZqC3L1QiQMX0767GOvFLPkBdFnQ+BKSlCmYHDw3NLl7zfdBLQuL44V1M8wLDBciUZOTFz6pYjdvyXU//fp/f/1tbvSbcbbtwjrj+VaKT4EGP1BbOu0wEGJ4pPnZashz/frSKaNx+gCZRSPLidbbJcz8I7c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>r+IfocVaL1rFjO1g8R++uLrV3KsqhyKRBXVhjUiImHQTdxhbYmV1hEDWr+NP5ISL0z1TqOW5Ui1UG6cYT3FpgyVGryXAOLeJQ8OTwBtSPX4TzcxF/E7+/EEw7voI/Th/3+gKc3Xzf9KF8T7Ecekk8dCaF1oZFm1y7Hecqabn3sE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQSsrUbqv0SqtOCMm+ZICOLzANBgkqhkiG9w0BAQUFADAtMSswKQYDVQQDHiIAQwBPAFIAUABMAEUAQQBSAFwAagBhAGwAZQBnAGEAZABvMB4XDTEzMDcyMzA3Mzc0NloXDTE0MDcyMzEzMzc0NlowLTErMCkGA1UEAx4iAEMATwBSAFAATABFAEEAUgBcAGoAYQBsAGUAZwBhAGQAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAr+IfocVaL1rFjO1g8R++uLrV3KsqhyKRBXVhjUiImHQTdxhbYmV1hEDWr+NP5ISL0z1TqOW5Ui1UG6cYT3FpgyVGryXAOLeJQ8OTwBtSPX4TzcxF/E7+/EEw7voI/Th/3+gKc3Xzf9KF8T7Ecekk8dCaF1oZFm1y7Hecqabn3sECAwEAATANBgkqhkiG9w0BAQUFAAOBgQCpTbskn+j9lS1BnVVskvyoQ7B3NTC6TqpV7nQHXuyl0u9AfpBjt9L1AtjxDGJKXQaz5R9I/bGUYAHYNs5dp7A7pjbeevCF51VutCK6phoET/CJ7YGvUBiZKzUnl6BzWdJ7SnPEsyA7KGo1Anjx0AeItATJoKJVZ4uK5DTC/VOfOw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,64 @@
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.exe.config
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.GrabForm.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.Properties.Resources.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.csproj.ResolveComReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.ProgressBar.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.CheckAttendanceWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\02 REVISED VERSION 2.0\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.ProcessShiftCodeWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.exe.config
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.csproj.ResolveComReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.CheckAttendanceWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.GrabForm.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.ProcessShiftCodeWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.ProgressBar.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.Properties.Resources.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\03 VERSION 3.0 - KAY NAUSAB NASAD ANG TEMPLATE - F--K!\The Shift 2.0\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.exe.config
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.csproj.ResolveComReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.CheckAttendanceWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.GrabForm.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.ProcessShiftCodeWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.ProgressBar.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.Properties.Resources.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - Shift Code (Legacy) Generator\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.exe.config
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.csproj.ResolveComReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.exe
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\bin\Debug\HardShifts 2.0.pdb
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.CheckAttendanceWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.GrabForm.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.ProcessShiftCodeWin.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.ProgressBar.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\HWAttendanceGrabber.Properties.Resources.resources
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAlegado\JAAlegado\JAA TASKS\CE-HW Auto Shift Code Generator\04 VERSION 4.0 - TEMPLATE DATE RANGE AS BASIS OF SEARCH\HardShifts 2.0\HardShifts 2.0\obj\x86\Debug\ResGen.write.1.tlog
